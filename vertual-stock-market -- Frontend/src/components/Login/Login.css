@@ -1,0 +1,20 @@
+.login-primary-container {
+  height: 100vh;
+  background-image: url("../Data/Images/1393719.jpg");
+  padding-top: 100px;
+}
+
+.login-secondary-container {
+  width: 500px;
+  height: auto;
+  border: 1px solid rgb(214, 205, 205);
+  padding: 40px;
+  border-radius: 2%;
+  /* box-shadow: 3px 3px #ccc; */
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  background-color: #fff;
+}
+
+.login-title {
+  padding-bottom: 15px;
+}
